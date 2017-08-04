@@ -11,6 +11,7 @@
         "mobilesdk_app_id": "1:811949295210:android:1d4e71fab9a8a67b",
         "android_client_info": {
           "package_name": "me.sabareesh.trippie.debug"
+
         }
       },
       "oauth_client": [
@@ -30,12 +31,7 @@
         },
         "appinvite_service": {
           "status": 1,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "811949295210-8tf98e93ss9gs4kv5c07gq8a4coiikos.apps.googleusercontent.com",
-              "client_type": 3
-
-            } ]
+          "other_platform_oauth_client": []
 
         },
         "ads_service": {

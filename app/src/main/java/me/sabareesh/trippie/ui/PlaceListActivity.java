@@ -160,7 +160,7 @@ public class PlaceListActivity extends AppCompatActivity {
         final AdView mAdView = (AdView) findViewById(R.id.adGMSView);
         final AdRequest adRequest = new AdRequest.Builder()
                 .addTestDevice(AdRequest.DEVICE_ID_EMULATOR)
-                .addTestDevice("A735BBF17F1F716518CB3F5B1FE57111")
+                .addTestDevice("DE:26:91:B0:4B:B9:5C:5F:DE:55:C4:A6:38:F7:15:84:F4:40:FC:7F")
                 .build();
         Handler handler = new Handler();
         handler.postDelayed(new Runnable() {

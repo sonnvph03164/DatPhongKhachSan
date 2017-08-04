@@ -27,7 +27,7 @@ public class Constants {
     public static final String API_VALUE = "";
 
 
-    public static final String API_MAPS_VALUE = "";
+    public static final String API_MAPS_VALUE = "AIzaSyBpt-Nv6lVshF1EUyol7aw3It5MW0pP1vE";
     public static final String ABMOBS_APP_ID = "ca-app-pub-3940256099942544~3347511713";
     public static final String TYPE_VALUE_RESTAURANT = "restaurant";
     public static final String TYPE_VALUE_HOTEL = "lodging";
