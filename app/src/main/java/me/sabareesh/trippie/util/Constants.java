@@ -4,7 +4,7 @@ public class Constants {
 
 
     //Parameters
-    public static final String BASE_URL_PLACES = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?";
+    public static final String BASE_URL_PLACES = "https://maps.googleapis.com/maps/api/place/nearbysearch/output?parameters";
     public static final String BASE_URL_PLACE_DETAILS = "https://maps.googleapis.com/maps/api/place/details/json?";
     public static final String PLACE_THUMBNAIL = "https://maps.googleapis.com/maps/api/place/photo?maxheight=220&photoreference=";
     public static final String BASE_URL_STATIC_MAP = "https://maps.googleapis.com/maps/api/staticmap?";
